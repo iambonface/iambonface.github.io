@@ -1,6 +1,71 @@
 
-.header-main{
-	height: 50px;
-	background-color: #f8f8f8;
-	width: 100%;
+@import url('http://fonts.googleapis.com/css?family=Georgia');
+@import url('http://fonts.googleapis.com/css?family=Lobster');
+
+html {
+	background: #005C97; 
+  	min-height: 100%;
+    height: auto;
 }
+
+body  {
+  font-family: 'Georgia', serif;
+  font-size: 14px;
+  line-height: 140%;
+}
+.profile {
+  background: #fff888;
+  width: 50%;
+  min-width:300px;
+  max-width:350px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  border-radius: 0 0 30px 30px;
+  z-index: 100;
+  padding: 10px;
+}
+
+.profile-image {
+  background: #005C97;
+}
+
+.profile-image img {
+  display: block;
+  margin: 0 auto;
+}
+hr{
+	color: #000000;
+}
+
+h1, h2 {
+  font-family: 'Georgia', serif;
+  font-weight: bold;
+  color: #000000;
+}
+
+h1{ 
+  font-size: 1.5em;
+  line-height: 90%;
+  text-align: center;
+  font-weight: bolder;
+}
+
+h2{ 
+  font-size: 1.2em;
+  line-height: 90%;
+  text-align: center;
+}
+
+p {
+  font-size: 1.3em;
+  line-height: 90%;
+  text-align: center;
+  color: #000000;
+  margin-bottom: 28px;
+  font-family: 'Georgia';
+}
+
+a {
+  text-decoration: none;
+}
+
