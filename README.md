@@ -7,3 +7,7 @@
    
 ##Cloning the repo
 $ git clone https://github.com/iambonface/iambonface.github.io.git
+
+
+##Sample output
+<a href="http://iambonface.github.io">Click here to view sample website </a>
